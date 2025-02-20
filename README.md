@@ -108,10 +108,6 @@ project/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[Your License Here]
-
 ## Acknowledgments
 
 - PyAutoGUI for mouse control functionality
