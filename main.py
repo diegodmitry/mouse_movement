@@ -1,4 +1,4 @@
-from src.mouse_controller import MouseController
+from mouse_movement.mouse_controller import MouseController
 import time
 import sys
 
